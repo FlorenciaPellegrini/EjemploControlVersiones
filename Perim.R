@@ -10,7 +10,6 @@ B<-2
 H<-5
 AreaTrap <- ((B*b)/2)*h
 
-b<-2 
-a<-2
-PerRect <- 2*(b*a)
+PerRect <- function(r){
+  return((L+l)*2)
 
