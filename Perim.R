@@ -11,5 +11,5 @@ H<-5
 AreaTrap <- ((B*b)/2)*h
 
 PerRect <- function(r){
-  return((L+l)*2)
+  return((L+l)*2)}
 
