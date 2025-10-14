@@ -26,6 +26,14 @@ AreaCuadrado<-Lado^2
 ```{r}
 b<-2
 L<-1
-(b*L)/2
+AreaTri <- (b*L)/2
 ```
+
+Área del rectángulo
+```{r}
+B<-3
+a<-5
+AreaRec<- B*a
+```
+
 
